@@ -30,6 +30,12 @@
 
 - Family: [Karla](https://fonts.google.com/specimen/Karla)
 - Weights: 400, 700
+
+
 ### Icons
 
 - React-Icons
+
+### Animations
+
+- Framer-motion
